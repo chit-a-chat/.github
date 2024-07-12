@@ -35,7 +35,8 @@ pnpm, 저스탠드
 ### Tools
 ![jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonDongGeun&show_icons=true&theme=synthwave)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hani2057&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonDongGeun&show_icons=true&theme=synthwave&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hani2057&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hij712&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koy4648&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chit-a-chat&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
