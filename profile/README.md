@@ -15,7 +15,9 @@
 | 윤동근 | 프론트엔드     |
 | 정혜인 | 백엔드     |
 ### 프로젝트 소개
+FE : https://github.com/chit-a-chat/FE
 
+BE : https://github.com/chit-a-chat/BE
 
 ### 기술 스택
 
