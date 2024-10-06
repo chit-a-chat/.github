@@ -11,11 +11,16 @@
 | 이름   | 담당            |
 | ------ | --------------- |
 | 기현정 | 디자이너       |
-| 김하늬 | 프론트엔드     |
 | 윤동근 | 프론트엔드     |
 | 김영서 | 백엔드         |
 | 정혜인 | 백엔드         |
 | 이상원 | 백엔드         |
+
+### 팀원(구)
+| 이름   | 담당            |
+| ------ | --------------- |
+| 김하늬 | 프론트엔드     |
+
 ### 프로젝트 소개
 FE : https://github.com/chit-a-chat/FE
 
@@ -41,10 +46,6 @@ pnpm, 저스탠드
 ![jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonDongGeun&show_icons=true&theme=synthwave&rank_icon=github)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hani2057&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hij712&show_icons=true&theme=city_lights&rank_icon=github)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koy4648&show_icons=true&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowgnas&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonDongGeun&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YoonDongGeun)](https://github.com/anuraghazra/github-readme-stats)
